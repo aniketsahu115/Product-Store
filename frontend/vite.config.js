@@ -7,7 +7,7 @@ export default defineConfig({
 	server: {
 		proxy: {
 			"/api": {
-				target: "https://product-store-gilt.vercel.app/",
+				target: "http://localhost:5000",
 			},
 		},
 	},
