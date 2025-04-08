@@ -43,5 +43,3 @@ npm install cross-env --save-dev
 },
 
 ```
-
-### I'll see you in the next one!
